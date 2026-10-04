@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "name": "Ren's Revenge Next Plugins",
+  "description": "Revenge Next ports by Ren.",
+  "plugins": {
+    "ren.better-calls": {
+      "name": "Better Calls",
+      "description": "Silent calls per user, and remembers your preferred audio output device.",
+      "author": "Ren (port of BetterCalls)",
+      "icon": "ic_notif_off",
+      "channels": {
+        "latest": "0.1.0"
+      },
+      "versions": {
+        "0.1.0": {
+          "url": "https://renshirayuki.github.io/RevengeNextPlugins/ren.better-calls@0.1.0.zip",
+          "sha256": "3f3edebfb9fc9523c536e86c488b607a8dd6d767d1572952f9aee0a1b97c3cdc",
+          "size": 4628,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    }
+  }
+}
