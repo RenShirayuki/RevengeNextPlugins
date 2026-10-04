@@ -9,13 +9,13 @@
       "author": "Ren (port of BetterCalls)",
       "icon": "ic_notif_off",
       "channels": {
-        "latest": "0.1.0"
+        "latest": "0.1.1"
       },
       "versions": {
-        "0.1.0": {
-          "url": "https://renshirayuki.github.io/RevengeNextPlugins/ren.better-calls@0.1.0.zip",
-          "sha256": "3f3edebfb9fc9523c536e86c488b607a8dd6d767d1572952f9aee0a1b97c3cdc",
-          "size": 4628,
+        "0.1.1": {
+          "url": "https://renshirayuki.github.io/RevengeNextPlugins/ren.better-calls@0.1.1.zip",
+          "sha256": "6320f86c78e5048c9fbd641ef5fa2af22cb714c3f6b99bdb058f1efbb8b42fe9",
+          "size": 4625,
           "dependencies": {
             "revenge.api": {
               "version": ">=1 <2"
